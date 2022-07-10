@@ -3,7 +3,7 @@
   "name": "Roborock",
   "config_flow": true,
   "documentation": "https://www.google.com",
-  "requirements": ["pyroborock==1.0.10"],
+  "requirements": ["pyroborock-grizmin"],
   "version": "1.0",
   "codeowners": ["@89jd"]
 }
